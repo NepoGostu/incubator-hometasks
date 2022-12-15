@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https://NepoGostu.github.io/static/css/main.d8631084.css",
-    "main.js": "/https://NepoGostu.github.io/static/js/main.c7237798.js",
-    "static/js/787.66cb4309.chunk.js": "/https://NepoGostu.github.io/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/https://NepoGostu.github.io/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/https://NepoGostu.github.io/index.html",
-    "main.d8631084.css.map": "/https://NepoGostu.github.io/static/css/main.d8631084.css.map",
-    "main.c7237798.js.map": "/https://NepoGostu.github.io/static/js/main.c7237798.js.map",
-    "787.66cb4309.chunk.js.map": "/https://NepoGostu.github.io/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/static/css/main.d8631084.css",
+    "main.js": "/static/js/main.946417ad.js",
+    "static/js/787.66cb4309.chunk.js": "/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/index.html",
+    "main.d8631084.css.map": "/static/css/main.d8631084.css.map",
+    "main.946417ad.js.map": "/static/js/main.946417ad.js.map",
+    "787.66cb4309.chunk.js.map": "/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8631084.css",
-    "static/js/main.c7237798.js"
+    "static/js/main.946417ad.js"
   ]
 }
