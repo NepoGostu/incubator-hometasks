@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NepoGostu/incubator-hometasks.git/static/css/main.d8631084.css",
+    "main.js": "/NepoGostu/incubator-hometasks.git/static/js/main.55e6adb2.js",
+    "static/js/787.66cb4309.chunk.js": "/NepoGostu/incubator-hometasks.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/NepoGostu/incubator-hometasks.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/NepoGostu/incubator-hometasks.git/index.html",
+    "main.d8631084.css.map": "/NepoGostu/incubator-hometasks.git/static/css/main.d8631084.css.map",
+    "main.55e6adb2.js.map": "/NepoGostu/incubator-hometasks.git/static/js/main.55e6adb2.js.map",
+    "787.66cb4309.chunk.js.map": "/NepoGostu/incubator-hometasks.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8631084.css",
+    "static/js/main.55e6adb2.js"
+  ]
+}
